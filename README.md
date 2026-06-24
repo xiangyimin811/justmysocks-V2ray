@@ -1,5 +1,4 @@
-# justmysocks-V2ray
-just my socks科学上网教程
+# justmysocks-V2ray科学上网教程
 
 just my socks[官网地址](https://justmysocks.net/members/aff.php?aff=26304)
 
